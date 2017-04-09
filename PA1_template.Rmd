@@ -1,5 +1,5 @@
 ---
-title: "Analyzing FitBit Data"
+title: "Course Project 1"
 author: "Marino Gavidia"
 date: "april, 2017"
 output: 
