@@ -1,4 +1,4 @@
-# Analyzing FitBit Data
+# Course Project 1
 Marino Gavidia  
 april, 2017  
 
